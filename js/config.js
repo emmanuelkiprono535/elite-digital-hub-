@@ -1,0 +1,1 @@
+/* Demo works immediately in this browser. Production deployment requires Supabase Auth + database policies. */window.EDH_CONFIG={brand:"Elite Digital Hub",useSupabase:false,supabaseUrl:"",supabaseAnonKey:"",whatsappNumber:""};
